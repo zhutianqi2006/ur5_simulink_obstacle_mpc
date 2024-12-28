@@ -28,7 +28,7 @@ ur5_simulink_control
 <img src="doc/overall.png" width="500" height="200">
 </p>
 
-# change model
+# Change model
 If you need to modify the model or controller, be sure to modify or remove the acado_mpc_data.mat file. For convenience during re-runs, some bus size definitions are included in that file.
 ## BibTeX
 
